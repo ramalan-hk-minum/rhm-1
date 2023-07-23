@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ramalan-hk-minum.github.io/rhm-1/sitemap.xml
